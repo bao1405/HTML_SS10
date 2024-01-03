@@ -49,10 +49,6 @@ button {
     border: 1px solid #ccc;
 }
 
-button:hover {
-    background-color: #1e88e5;
-}
-
 footer {
     margin-top: 20px;
 }
